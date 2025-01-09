@@ -18,9 +18,8 @@ def read_csv(input_file):
         print(f"An error occurred while reading the input file: {e}")
         return None
     
-
 if __name__ == "__main__": 
     print("my name is input manager")
-    # input_file = ""
-    # df = read_csv(input_file=input_file)
-    # print(df)
+    input_file = "TEST COMMENTS/product_comments.csv"
+    df = read_csv(input_file=input_file)
+    print(df)
