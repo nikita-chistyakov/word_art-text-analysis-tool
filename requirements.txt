@@ -1,0 +1,7 @@
+pip install pandas numpy scikit-learn nltk matplotlib seaborn
+pip install textblob
+
+# pandas and numpy: For data manipulation.
+# scikit-learn: For clustering and machine learning.
+# nltk and textblob: For natural language processing and sentiment analysis.
+# matplotlib and seaborn: For visualizing clusters or results.
