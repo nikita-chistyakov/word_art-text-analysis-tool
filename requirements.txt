@@ -1,5 +1,14 @@
-pip install pandas numpy scikit-learn nltk matplotlib seaborn
-pip install textblob
+streamlit
+pandas
+scikit-learn
+nltk
+textblob
+
+
+# pip install pandas numpy scikit-learn nltk matplotlib seaborn
+# pip install textblob
+# pip install streamlit
+
 
 # pandas and numpy: For data manipulation.
 # scikit-learn: For clustering and machine learning.

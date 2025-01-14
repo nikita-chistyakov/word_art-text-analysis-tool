@@ -1,0 +1,5 @@
+streamlit-app/
+├── app.py               # Streamlit application
+├── requirements.txt     # Python dependencies
+├── Dockerfile           # Docker configuration
+├── .vercelignore        # Optional: Ignore unnecessary files for deployment
